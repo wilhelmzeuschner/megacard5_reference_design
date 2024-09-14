@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MegaCard5_footprints")(type "KiCad")(uri "${KIPRJMOD}/kicad_footprints/MegaCard5_footprints.pretty")(options "")(descr ""))
+)
