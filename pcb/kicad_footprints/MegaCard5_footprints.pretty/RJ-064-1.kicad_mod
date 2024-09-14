@@ -18,7 +18,7 @@
 	(property "Value" "RJ-064-1"
 		(at 3.5 -1.5 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "49d3d4cb-a878-438e-aa55-dd82e0194aa3")
 		(effects
 			(font
@@ -81,7 +81,7 @@
 	(fp_text user "${REFERENCE}"
 		(at 0 8.5 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "27229cf3-18a7-4d56-991d-645c62e85425")
 		(effects
 			(font

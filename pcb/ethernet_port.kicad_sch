@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "885bce4b-92b0-4ba6-87ce-9f0e5626b8e1")
+	(uuid "c1cb1af4-7d79-49b4-b48f-bad268fb02bd")
 	(paper "A4")
 	(title_block
 		(title "Ethernet port")
@@ -268,7 +268,7 @@
 				)
 			)
 		)
-		(symbol "MegaCard5_schematic_symbols:RJ-064-1"
+		(symbol "MegaCard5_schematic_symbols:MJ88-B211-JRS3"
 			(pin_names
 				(offset 1.016)
 			)
@@ -284,7 +284,7 @@
 					(justify right)
 				)
 			)
-			(property "Value" "RJ-064-1"
+			(property "Value" "MJ88-B211-JRS3"
 				(at 2.54 13.97 0)
 				(effects
 					(font
@@ -293,7 +293,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "MegaCard5_footprints:RJ-064-1"
+			(property "Footprint" "MegaCard5_footprints:MJ88-B211-JRS3"
 				(at 0 -27.94 0)
 				(effects
 					(font
@@ -311,7 +311,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" " RJ45Receptacle SMD Ethernet Connectors / Modular Connectors (RJ45 RJ11) ROHS"
+			(property "Description" "RJ45Receptacle 1 Shielded Horizontal attachment Without LED -25℃~+70℃ SMD Ethernet Connectors / Modular Connectors (RJ45 RJ11) ROHS"
 				(at 0 -22.86 0)
 				(effects
 					(font
@@ -320,7 +320,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC PN" "C7205199"
+			(property "LCSC PN" "C2895614"
 				(at 0 -30.48 0)
 				(effects
 					(font
@@ -329,7 +329,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC URL" "https://www.lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-RJ45-RJ11_FG-RJ-064-1_C7205199.html"
+			(property "LCSC URL" "https://www.lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-RJ45-RJ11_Heling-MJ88-B211-JRS3_C2895614.html"
 				(at 0 -25.4 0)
 				(effects
 					(font
@@ -356,7 +356,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "RJ-064-1_0_1"
+			(symbol "MJ88-B211-JRS3_0_1"
 				(polyline
 					(pts
 						(xy -5.08 4.445) (xy -6.35 4.445)
@@ -479,7 +479,7 @@
 					)
 				)
 			)
-			(symbol "RJ-064-1_1_1"
+			(symbol "MJ88-B211-JRS3_1_1"
 				(pin passive line
 					(at 10.16 -7.62 180)
 					(length 2.54)
@@ -1113,7 +1113,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MegaCard5_schematic_symbols:RJ-064-1")
+		(lib_id "MegaCard5_schematic_symbols:MJ88-B211-JRS3")
 		(at 68.58 55.88 0)
 		(mirror y)
 		(unit 1)
@@ -1132,7 +1132,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RJ-064-1"
+		(property "Value" "MJ88-B211-JRS3"
 			(at 77.47 55.8799 0)
 			(effects
 				(font
@@ -1141,7 +1141,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "MegaCard5_footprints:RJ-064-1"
+		(property "Footprint" "MegaCard5_footprints:MJ88-B211-JRS3"
 			(at 68.58 83.82 0)
 			(effects
 				(font
@@ -1159,7 +1159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RJ45Receptacle SMD Ethernet Connectors / Modular Connectors (RJ45 RJ11) ROHS"
+		(property "Description" "RJ45Receptacle 1 Shielded Horizontal attachment Without LED -25℃~+70℃ SMD Ethernet Connectors / Modular Connectors (RJ45 RJ11) ROHS"
 			(at 68.58 78.74 0)
 			(effects
 				(font
@@ -1168,7 +1168,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C7205199"
+		(property "LCSC PN" "C2895614"
 			(at 68.58 86.36 0)
 			(effects
 				(font
@@ -1177,7 +1177,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC URL" "https://www.lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-RJ45-RJ11_FG-RJ-064-1_C7205199.html"
+		(property "LCSC URL" "https://www.lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-RJ45-RJ11_Heling-MJ88-B211-JRS3_C2895614.html"
 			(at 68.58 81.28 0)
 			(effects
 				(font
