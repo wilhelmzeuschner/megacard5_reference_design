@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "MegaCard 5"
-		(at 0 -10.2 180)
+		(at 0 -15.2 180)
 		(layer "F.Fab")
 		(uuid "c70ee148-8b1f-4408-9932-ce01fcbded53")
 		(effects
@@ -51,7 +51,7 @@
 		)
 	)
 	(property "Description" "5 port 100 Mbit/s unmanaged ethernet switch"
-		(at 0 -8.6 0)
+		(at 0 -13.6 0)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "758368d8-e345-4c6d-9aa7-8b5f78a66f6d")
@@ -328,7 +328,7 @@
 		)
 	)
 	(fp_text user "wizeus.de/megacard5"
-		(at 0 -45.5 0)
+		(at 0 -6.4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "354933ec-6674-48c1-b9d5-8552dbf93c76")
@@ -341,7 +341,7 @@
 		)
 	)
 	(fp_text user "Connector for\nMegaCard 5"
-		(at 0 -48.75 0)
+		(at 0 -9.65 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "bd97d740-2978-4a62-aa24-e2cc0cde91bb")
