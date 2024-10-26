@@ -5605,7 +5605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "PWR_IN"
 			(at 124.46 45.72 0)
 			(effects
 				(font
@@ -6666,7 +6666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "PWR_IN"
 			(at 50.8 106.68 0)
 			(effects
 				(font
@@ -7628,7 +7628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "PWR_IN"
 			(at 76.2 40.64 0)
 			(effects
 				(font
@@ -9025,7 +9025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "PWR_IN"
 			(at 58.42 115.5699 90)
 			(effects
 				(font
