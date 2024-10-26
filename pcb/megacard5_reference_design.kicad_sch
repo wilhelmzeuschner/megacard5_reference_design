@@ -4546,10 +4546,10 @@
 		)
 		(uuid "234cf34c-05fa-42ce-9826-7c0be6deca79")
 	)
-	(text_box "Note:\nThe screws are configured such that they appear in the BOM but not on the PCB.\nIn case you use different SMT solder nut, you may need to edit the MegaCard 5 footprint.\n"
+	(text_box "Note:\nThe screws are configured such that they appear in the BOM but not on the PCB.\nIn case you use a different SMT solder nut, you may need to edit the MegaCard 5 footprint.\n"
 		(exclude_from_sim no)
 		(at 307.34 68.58 0)
-		(size 50.8 15.24)
+		(size 50.8 12.7)
 		(stroke
 			(width 0)
 			(type default)
@@ -8591,28 +8591,28 @@
 			)
 		)
 		(pin "1"
-			(uuid "38e2a379-4ee9-489d-a72e-835af82bb4ae")
+			(uuid "38e2a379-4ee9-489d-a72e-835af82bb4af")
 		)
 		(pin "5"
-			(uuid "6227d143-33ee-4ef0-a32f-50c841fdb56f")
+			(uuid "6227d143-33ee-4ef0-a32f-50c841fdb570")
 		)
 		(pin "6"
-			(uuid "c976b567-23dd-488a-b6e5-0c92721ea357")
+			(uuid "c976b567-23dd-488a-b6e5-0c92721ea358")
 		)
 		(pin "7"
-			(uuid "4c94db5a-c7a0-455f-875e-6009c27a9b31")
+			(uuid "4c94db5a-c7a0-455f-875e-6009c27a9b32")
 		)
 		(pin "MP"
-			(uuid "67280cd1-b218-4a27-bd43-b6dd4193c215")
+			(uuid "67280cd1-b218-4a27-bd43-b6dd4193c216")
 		)
 		(pin "2"
-			(uuid "1929d2f2-088c-4a8c-a309-fbe1e9ea83d7")
+			(uuid "1929d2f2-088c-4a8c-a309-fbe1e9ea83d8")
 		)
 		(pin "3"
-			(uuid "109e6904-629d-4fb0-b472-6565e6ea5ede")
+			(uuid "109e6904-629d-4fb0-b472-6565e6ea5edf")
 		)
 		(pin "4"
-			(uuid "c60474d0-ac0b-4b71-926d-fb9d72b44e8d")
+			(uuid "c60474d0-ac0b-4b71-926d-fb9d72b44e8e")
 		)
 		(instances
 			(project ""
