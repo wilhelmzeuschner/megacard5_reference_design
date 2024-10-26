@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Ethernet port")
-		(date "2024-09-14")
-		(rev "1.0")
+		(date "2024-10-26")
+		(rev "1.1")
 		(company "Wilhelm Zeuschner")
 	)
 	(lib_symbols

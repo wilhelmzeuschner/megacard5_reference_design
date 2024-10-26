@@ -173,4 +173,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "a265580e-0163-42e6-ac1e-6647b63f1745")
 	)
+	(model "${KIPRJMOD}/kicad_3d_models/SKRPAC.STEP"
+		(offset
+			(xyz -2.3 1.6 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

@@ -161,4 +161,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "007818a1-81eb-4d14-9df7-f12a0725b768")
 	)
+	(model "${KIPRJMOD}/kicad_3d_models/MJ88-B211-JRS3.step"
+		(offset
+			(xyz 0 19.35 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -180)
+		)
+	)
 )

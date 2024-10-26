@@ -550,4 +550,15 @@
 		(roundrect_rratio 0.125)
 		(uuid "7e044fab-20b5-4f6d-95b8-67e01b8bb751")
 	)
+	(model "${KIPRJMOD}/kicad_3d_models/DC-005-5A-2-0-SMT.step"
+		(offset
+			(xyz 0 -0.85 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )
