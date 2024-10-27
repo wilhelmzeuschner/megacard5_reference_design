@@ -364,6 +364,72 @@
 			)
 		)
 	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "0fca69d8-c4d4-42da-b0eb-fc657bf69244")
+		(pts
+			(xy -12.1 -48.05) (xy 12.1 -48.05)
+		)
+		(height -7.65)
+		(gr_text "24.2000 mm"
+			(at 0 -56.85 0)
+			(layer "Dwgs.User")
+			(uuid "0fca69d8-c4d4-42da-b0eb-fc657bf69244")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "fadeea74-4226-4fe9-9dc6-e048675fbf2c")
+		(pts
+			(xy -12.5 0) (xy -12.1 -48.05)
+		)
+		(height -7.813425)
+		(gr_text "48.0517 mm"
+			(at -21.263114 -24.099615 89.52304303)
+			(layer "Dwgs.User")
+			(uuid "fadeea74-4226-4fe9-9dc6-e048675fbf2c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
 	(pad "" np_thru_hole circle
 		(at -12.5 0)
 		(size 1.6 1.6)
